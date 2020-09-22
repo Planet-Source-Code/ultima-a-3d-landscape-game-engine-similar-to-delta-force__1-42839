@@ -1,0 +1,5 @@
+m,"\Maps\m1.hmp","\Maps\m1.mtx"
+o,"\Objects\sign.emp"
+o,"\Objects\watchtower.emp"
+o,"\Objects\bunker.emp"
+w,9125,11275,13500,14330,300
